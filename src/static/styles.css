@@ -198,3 +198,13 @@ body.dark-mode button {
 body.dark-mode button:hover {
   background-color: #5c6bc0;
 }
+
+.participant {
+  font-size: 14px;
+  color: #4caf50;
+  margin-bottom: 5px;
+  padding: 2px 5px;
+  background-color: #e8f5e9;
+  border-radius: 3px;
+  display: inline-block;
+}
